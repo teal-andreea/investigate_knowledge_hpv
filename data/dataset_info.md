@@ -1,5 +1,25 @@
 # Methodology
 
+For analyzing the experiences and perceptions of women in Romania regarding cervical cancer screening and follow-up care, we will use a thematic analysis approach. This methodology is suitable for identifying, analyzing, and reporting patterns (themes) within the data, which allows us to provide a rich, detailed, and nuanced account of the data.
+
+The thematic analysis process will involve the following steps:
+
+1. **Familiarization with the Data**:
+   - Reviewing the interviews to understand the content and context of the responses.
+   - Identifying key variables and potential themes.
+
+2. **Generating Initial Codes**:
+    - Coding the data to identify interesting features or patterns.
+    - Creating initial codes based on the content of the responses.
+
+3. **Searching for Themes**:
+    - Collating codes into potential themes.
+    - Reviewing and refining themes to ensure they accurately represent the data.
+
+4. **Defining, naming, reviewing Themes**:
+    - Checking the themes against the coded extracts and the entire dataset.
+    - Ensuring the themes work in relation to the coded extracts and the dataset as a whole.
+
 
 
 # Dataset Information
