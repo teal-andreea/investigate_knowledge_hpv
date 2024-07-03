@@ -4,6 +4,8 @@
 
 This repository contains the dataset and analysis notebook for a qualitative research study on HPV prophylaxis. The study focuses on improving prevention through early education and communication, based on a series of semi-structured interviews. The dataset includes detailed responses from participants, coded and analyzed for key insights. The analysis notebook provides comprehensive qualitative analysis using industry-standard procedures.
 
+> **Note:** The dataset and analysis at current date of 2024-07-03 are partially completed (26 of 42 interviews processed)  and subject to further updates and refinements.
+
 ## Methodology
 
 For analyzing the experiences and perceptions of women in Romania regarding cervical cancer screening and follow-up care, we will use a thematic analysis approach. This methodology is suitable for identifying, analyzing, and reporting patterns (themes) within the data, which allows us to provide a rich, detailed, and nuanced account of the data.
