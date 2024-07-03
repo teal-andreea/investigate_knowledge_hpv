@@ -6,6 +6,8 @@ This repository contains the dataset and analysis notebook for a qualitative res
 
 > **Note:** The dataset and analysis at current date of 2024-07-03 are partially completed (26 of 42 interviews processed)  and subject to further updates and refinements.
 
+[Word Cloud](img/Figure_1.png)
+
 ## Methodology
 
 For analyzing the experiences and perceptions of women in Romania regarding cervical cancer screening and follow-up care, we will use a thematic analysis approach. This methodology is suitable for identifying, analyzing, and reporting patterns (themes) within the data, which allows us to provide a rich, detailed, and nuanced account of the data.
