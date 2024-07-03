@@ -6,7 +6,7 @@ This repository contains the dataset and analysis notebook for a qualitative res
 
 > **Note:** The dataset and analysis at current date of 2024-07-03 are partially completed (26 of 42 interviews processed)  and subject to further updates and refinements.
 
-[Word Cloud](img/Figure_1.png)
+![Word Cloud](img/Figure_1.png)
 
 ## Methodology
 
