@@ -133,6 +133,11 @@ The thematic analysis process will involve the following steps:
 
 The detailed thematic analysis reveals that while there is some awareness of cervical cancer and HPV testing among women in Romania, significant gaps remain, particularly regarding understanding and accessing these services. Financial and logistical barriers are prominent, and the emotional burden of dealing with positive test results is substantial. Interactions with healthcare professionals play a crucial role in shaping experiences, highlighting the need for improved communication and empathetic care. Overall, there is a clear need for better education, accessible healthcare services, and emotional support for women undergoing cervical cancer screening and follow-up care.
 
+## Licensing
+
+This repository is governed by the Apache 2.0 license. However, the data included in this repository cannot be used for commercial purposes or any other purposes without the consent of the author. You can can reach out to the author at itu.andreea@yahoo.com for further information.
+
+
 ## BibTeX Reference
 
 ```bibtex
@@ -141,7 +146,7 @@ The detailed thematic analysis reveals that while there is some awareness of cer
     title = {HPV Qualitative Research Analysis},
     year = {2024},
     note = {Repository available on GitHub},
-    howpublished = {\url{https://github.com/teal-andreea/HPV_Qualitative_Research_Analysis}},
+    howpublished = {\url{https://github.com/teal-andreea/investigate_knowledge_hpv}},
     email = {itu.andreea@yahoo.com}
 }
 ```
