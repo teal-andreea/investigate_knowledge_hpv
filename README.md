@@ -147,6 +147,6 @@ This repository is governed by the Apache 2.0 license. However, the data include
     year = {2024},
     note = {Repository available on GitHub},
     howpublished = {\url{https://github.com/teal-andreea/investigate_knowledge_hpv}},
-    email = {itu.andreea@yahoo.com}
+    email = {andreea@smartclover.ro}
 }
 ```
