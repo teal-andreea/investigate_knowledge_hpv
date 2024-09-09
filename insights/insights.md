@@ -1,4 +1,4 @@
-# Key Insights
+# Key Insights example
 
 ## Participant #2
 
